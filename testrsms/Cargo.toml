@@ -1,0 +1,8 @@
+[package]
+name = "testrsms"
+version = "0.1.0"
+authors = ["zackel <legris.thomas@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rsms = { path = "../rsms" }
